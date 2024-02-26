@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:myapp1/Screens/Detailes_Grid.dart';
 
 class Gird_Screen_Builder extends StatefulWidget {
-  const Gird_Screen_Builder({super.key});
+  const   Gird_Screen_Builder({super.key});
 
   @override
   State<Gird_Screen_Builder> createState() => _Gird_Screen_BuilderState();

@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:myapp1/Screen2/Task1.dart';
+import 'package:myapp1/Screen2/Wave.dart';
 import 'package:myapp1/Screens/GirdClass.dart';
 import 'package:myapp1/Screens/Gird_Class.dart';
 import 'package:myapp1/Screens/Grid.dart';
@@ -18,7 +20,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const  MaterialApp(
-      home: Gird_Screen_Builder()
+      home: Wave()
     );
   }
 }

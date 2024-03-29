@@ -1,0 +1,4 @@
+import 'export.dart';
+
+// List color = [Colors.green,Colors.amber,Colors.orange,Colors.red,Colors.blue];
+List color = ["https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHN0YWNrfGVufDB8fDB8fHww","https://plus.unsplash.com/premium_photo-1689247946001-34d1588297f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3RhY2t8ZW58MHx8MHx8fDA%3D","https://plus.unsplash.com/premium_photo-1672846027109-e2c91500afef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHN0YWNrfGVufDB8fDB8fHww","https://images.unsplash.com/photo-1509490927285-34bd4d057c88?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHN0YWNrfGVufDB8fDB8fHww","https://images.unsplash.com/photo-1527173805928-31901391a3df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHN0YWNrfGVufDB8fDB8fHww"];

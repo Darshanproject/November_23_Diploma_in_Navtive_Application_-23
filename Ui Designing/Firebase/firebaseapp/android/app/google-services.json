@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268817914041",
+    "project_id": "aziza-40e50",
+    "storage_bucket": "aziza-40e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268817914041:android:c34824eb5b5e16687fe368",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_9SmJa-wbgLWEcx_gpcXiUu471qlW2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268817914041:android:3d40e90d3f2344387fe368",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_9SmJa-wbgLWEcx_gpcXiUu471qlW2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
